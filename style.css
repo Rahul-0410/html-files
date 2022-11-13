@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet;
+}
+table,th,td{
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    background-color: aquamarine;
+}
+th{
+    background-color: bisque;
+    color: red;
+}
+td{
+    background-color: blanchedalmond;
+    color: rgb(100, 70, 32);
+}
